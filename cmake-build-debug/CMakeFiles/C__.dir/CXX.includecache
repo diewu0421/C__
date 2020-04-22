@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/CLionProjects/C++/oopTest.cpp
+vector
+-
+queue
+-
+set
+-
+map
+-
+stack
+-
+oopTest.h
+/Users/apple/CLionProjects/C++/oopTest.h
+iostream
+-
+fstream
+-
+pthread.h
+-
+thread
+-
+
+/Users/apple/CLionProjects/C++/oopTest.h
+iostream
+-
+
